@@ -11,6 +11,9 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón **"Añ
 - **Visualizar la lista:** Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
 - **Sorteo aleatorio:** Al hacer clic en el botón **"Sortear Amigo"**, se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 
+![Challenge Amigo Secreto](https://github.com/user-attachments/assets/ccd5a454-1b02-4dd9-8ec0-5e463e8f3423)
+
+
 ## 📂 Estructura del Proyecto
 📦 challenge-amigo-secreto 
       ┣ 📜 index.html 
